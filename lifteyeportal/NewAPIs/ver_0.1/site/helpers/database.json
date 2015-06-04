@@ -1,0 +1,16 @@
+{
+	"dev": {
+		"driver": "mysql",
+		"user": "updater",
+		"database": "emby_lifts",
+		"password": "cocoliso",
+		"host": "176.34.99.214"
+	},
+	"production": {
+		"driver": "mysql",
+		"user": "updater",
+		"database": "emby_lifts",
+		"password": "cocoliso",
+		"host": "lifteye.c6n5djj2s5hk.eu-west-1.rds.amazonaws.com"
+	}
+}

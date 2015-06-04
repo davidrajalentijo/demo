@@ -1,0 +1,15 @@
+{
+	"name": "lifteye",
+	"version": "0.0.1",
+	"description": "A Node js implementation for LiftEye",
+	"dependencies": {
+		"backbone": ">=1.1.2",
+		"express": ">=4.10.6",
+		"underscore": ">=1.8.3",
+		"path" : "*",
+		"body-parser": "*",
+		"mysql": ">=2.5.4",
+		"q" : "*",
+		"cookie-parser": ">=1.3.4"
+	}
+}
